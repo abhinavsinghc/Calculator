@@ -23,7 +23,7 @@ public static void main(String[] args)
 calculator a = new calculator();
 
 a.add(60,60);
-a.mul(10,10);
+a.mul(50,50);
 
 }
 
